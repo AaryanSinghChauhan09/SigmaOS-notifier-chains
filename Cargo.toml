@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-notifier-chains"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS notifier-chains component - kernel_subsystem"
+
+[lib]
+name = "notifier_chains"
+path = "src/lib.rs"
