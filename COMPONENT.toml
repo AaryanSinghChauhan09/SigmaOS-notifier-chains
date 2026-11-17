@@ -3,7 +3,7 @@ name = "SigmaOS-notifier-chains"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "notifier-chains component"
+description = "notifier chains component"
 upstream = []
 
 [contract]
